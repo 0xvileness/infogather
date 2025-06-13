@@ -6,3 +6,4 @@ pip3 install requests
 
 pip install json 
 
+python3 info.py 
